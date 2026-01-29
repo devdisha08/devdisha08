@@ -1,5 +1,5 @@
 # 💫 About Me:
-#Hi there 👋 I'm Disha 
+# Hi there 👋 I'm Disha 
 <br><br>💻 Frontend Developer | 🖌️ WordPress Expert  <br>🌱 Passionate about building responsive, user-friendly websites  <br>🚀 Focused on clean UI, performance, and modern web technologies<br><br>I'm a dedicated Frontend Developer with strong experience in building modern, responsive, and visually appealing websites.  <br>I specialize in turning ideas into functional, pixel-perfect web experiences.<br><br>🔹 Skilled in creating custom WordPress websites  <br>🔹 Strong focus on UI/UX and performance optimization  <br>🔹 Love working with clean code and structured design<br><br>📌 What I’m Working On<br><br>- Building modern portfolio & landing pages  <br>- Improving advanced JavaScript & React skills  <br>- Creating high-performance WordPress solutions  <br><br>📫 Connect With Me<br><br>- 💼 Portfolio: [Your Portfolio Link]<br>- 📧 Email: your@email.com<br>- 🌐 LinkedIn: [Your LinkedIn Link]<br><br><br>⭐ “Code is not just code, it's an experience.” 
 
 

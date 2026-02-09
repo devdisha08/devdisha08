@@ -27,7 +27,7 @@ I specialize in turning ideas into functional, pixel-perfect web experiences.
 
 ## 🌐 Portfolio  
 
-💼 [View My Portfolio](https://codertasnia-portfolio.netlify.app/)
+💼 [View My Portfolio](https://khandkerdisha.site/)
 
 
 
